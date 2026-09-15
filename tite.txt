@@ -1,1 +1,45 @@
-4f4fe54c3b4f67b7/kieltest/99
+4f4fe54c3b4f67b7/kieltest/30
+
+Complete this task fully and ensure the implementation is production-ready.
+
+Recreate the entire login menu design from the provided reference image and integrate it into my ZIP project. Do not simply create a similar-looking interface — accurately reproduce the complete design system, including layout, spacing, colors, animations, visual effects, buttons, typography, and overall user experience.
+
+Requirements:
+
+- The implementation must be written in Lua and fully compatible with the existing project structure.
+- Thoroughly analyze the entire ZIP project before making any changes to determine the correct files, modules, and integration points for the login menu.
+- Do not break any existing functionality, scripts, dependencies, or project workflows.
+- Maintain compatibility with the current framework, APIs, and environment used by the project.
+- Create a polished, modern, and professional UI experience rather than a basic or plain interface.
+- Reproduce all visual details from the reference image, including:
+  - Panels and container structure
+  - Gradients
+  - Shadows
+  - Borders
+  - Icons
+  - Animations and transitions
+  - Interactive states and effects
+  - Overall visual hierarchy
+
+Improve and permanently fix the "Copy Device ID" button functionality:
+
+- The button must actually copy the exact Device ID value displayed in the login menu.
+- Debug the existing implementation instead of applying a temporary visual fix.
+- Ensure clipboard functionality works correctly in the target environment.
+- Add proper permission handling if required.
+- Implement a reliable fallback method when the standard clipboard API is unavailable.
+- Provide clear user feedback after the action:
+  - Success message when the Device ID is copied.
+  - Error message when the operation fails.
+- Ensure the copied value contains no extra spaces, incorrect formatting, or invalid data.
+
+Perform complete testing of the entire flow:
+
+1. Open the login menu.
+2. Verify that the Device ID loads correctly.
+3. Press the "Copy Device ID" button.
+4. Confirm that the correct Device ID is copied successfully.
+5. Check that there are no conflicts with existing event listeners, callbacks, or UI handlers.
+6. Verify that all existing project features continue to work normally after integration.
+
+Do not provide a quick patch or surface-level changes. Identify the root cause of any existing issues, implement a clean and permanent solution, and deliver a fully integrated result that is stable, optimized, and ready for use.
