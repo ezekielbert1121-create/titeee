@@ -1,4 +1,12 @@
-# Spotibai: put this entire text in a public or unlisted Pastebin paste.
-# Format: AUDIO_LINK | SONG TITLE
-https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3 | Demo Song One
-https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3 | Demo Song Two
+https://audio.jukehost.co.uk/01a11cc9-e795-7118-ac71-3e454a42d63e | bahay yugyugan
+https://audio.jukehost.co.uk/01a11d02-9012-739d-9125-cc8ca21edc20 | PANDA - FLOW G
+https://audio.jukehost.co.uk/01a11d01-564f-70ab-aa1d-246cbd807968 | NIKI - DID YOU LIKE HER IN THE MORNING
+https://audio.jukehost.co.uk/01a11d02-260b-71cc-a057-f93e435b2c16 | DANIEL CEASAR - WHO KNOWS
+https://audio.jukehost.co.uk/01a12485-f665-7026-a4ba-207dca6d1ab8 | bahog otot
+https://audio.jukehost.co.uk/01a12485-f694-709c-a70c-3e6abfd27a3c | mahal mag mahal
+https://audio.jukehost.co.uk/01a12485-f4bc-73ba-8bc7-530688a3675d | ere - juan carlos
+https://audio.jukehost.co.uk/01a12485-f5bf-72b7-9c62-92fd39127c22 | mundo ivos
+https://audio.jukehost.co.uk/01a12485-f72b-726d-8438-3481f9db61a0 | panaginip - nicole
+https://audio.jukehost.co.uk/01a12485-f1b5-733e-bd2c-9bdacf23e9e3 | pixy - legacy
+https://audio.jukehost.co.uk/01a12485-f3e6-72a4-9ca2-c51684c7e0fb | totoong tayo
+https://audio.jukehost.co.uk/01a12485-f635-7101-898a-ec66914ca89c | margarita u,dags
