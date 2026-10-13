@@ -1,0 +1,4 @@
+# Spotibai: put this entire text in a public or unlisted Pastebin paste.
+# Format: AUDIO_LINK | SONG TITLE
+https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3 | Demo Song One
+https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3 | Demo Song Two
